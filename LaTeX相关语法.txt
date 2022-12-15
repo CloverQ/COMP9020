@@ -1,0 +1,6 @@
+维基百科公式&&字符
+https://zh.wikipedia.org/wiki/Help:%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F
+一些常用的公式
+https://blog.csdn.net/weixin_42373330/article/details/89785443
+手写公式转换LaTeX代码
+https://demo.wiris.com/mathtype/en/developers.php#mathml-latex
